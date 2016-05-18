@@ -5,7 +5,7 @@ import java.io.Serializable;
 
 public class Invocation implements Serializable{
 
-	private Class interfaceObj;
+	private Class interfaceObj ;
 	
 	private Method method;
 	
